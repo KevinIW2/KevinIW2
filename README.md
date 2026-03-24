@@ -2,7 +2,7 @@
 
 <h3 align="center">AI Engineer and AI Research Enthusiast | Computer Science Undergraduate, University of Indonesia</h3>
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=KevinIW&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=KevinIW2&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ## Profile
@@ -10,7 +10,7 @@
 I build AI solutions for industry and product use cases across Data Science and Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Speech Recognition, and agentic AI systems.  
 For academic research, I am especially focused on NLP, LLMs, neuro-symbolic (NeSy) AI, Symbolic reasoning and planning.
 
-- GitHub: [github.com/KevinIW](https://github.com/KevinIW?tab=repositories)
+- GitHub: [github.com/KevinIW2](https://github.com/KevinIW2?tab=repositories)
 - LinkedIn: [linkedin.com/in/kevinignatiuswijaya](https://linkedin.com/in/kevinignatiuswijaya)
 - Kaggle: [kaggle.com/kevinignatiuswijaya](https://kaggle.com/kevinignatiuswijaya)
 
