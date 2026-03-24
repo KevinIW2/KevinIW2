@@ -10,10 +10,6 @@
 I build AI solutions for industry and product use cases across Data Science and Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Speech Recognition, and agentic AI systems.  
 For academic research, I am especially focused on NLP, LLMs, neuro-symbolic (NeSy) AI, Symbolic reasoning and planning.
 
-- GitHub: [github.com/KevinIW2](https://github.com/KevinIW2?tab=repositories)
-- LinkedIn: [linkedin.com/in/kevinignatiuswijaya](https://linkedin.com/in/kevinignatiuswijaya)
-- Kaggle: [kaggle.com/kevinignatiuswijaya](https://kaggle.com/kevinignatiuswijaya)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/KevinIW2" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/> </a>
