@@ -14,6 +14,13 @@ For academic research, I am especially focused on NLP, LLMs, neuro-symbolic (NeS
 - LinkedIn: [linkedin.com/in/kevinignatiuswijaya](https://linkedin.com/in/kevinignatiuswijaya)
 - Kaggle: [kaggle.com/kevinignatiuswijaya](https://kaggle.com/kevinignatiuswijaya)
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/KevinIW2" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/> </a>
+<a href="https://linkedin.com/in/kevinignatiuswijaya" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" width="40" height="40"/> </a>
+<a href="https://kaggle.com/kevinignatiuswijaya" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" width="40" height="40"/> </a>
+</p>
+
 <h3 align="left">Skills and Tools:</h3>
 
 <h4>Programming Languages</h4>
